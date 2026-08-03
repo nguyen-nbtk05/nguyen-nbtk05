@@ -80,8 +80,6 @@ I'm always open to learning new technologies, collaborating on interesting proje
   <a href="https://x.com/22_thieu" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter" /></a>
   <a href="https://discord.com/users/Nora" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
 </p>
-
-<br clear="both" />
 🎨 Every project starts with the right foundation. Here's what powers my work:
 
 ---
