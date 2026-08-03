@@ -3,7 +3,7 @@
 ## ✨ Quick Overview
 > Computer Networks & Data Communications Student
 <div align="justify">
-Hi there! I'm [Nora](https://nguyen-nbtk05.id.vn/) 🍃. Welcome to my Github Profile!
+Hi there! I'm <a href="https://nguyen-nbtk05.id.vn/">Nora</a> 🍃. Welcome to my Github Profile!
 <br /><br />
 I'm a student who passionate about networking, cybersecurity, and cloud technologies, with a strong curiosity about how modern IT systems communicate and work together.
 <br /><br />
