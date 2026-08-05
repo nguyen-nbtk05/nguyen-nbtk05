@@ -81,7 +81,7 @@ I'm always open to learning new technologies, collaborating on interesting proje
 <p align="left">
   <a href="mailto:nguyen.nbtk05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/nguy%C3%AAn-nguy%E1%BB%85n-43679b412/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/22_thieu" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/22_thieu" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
   <a href="https://discord.com/users/Nora" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
 </p>
 🎨 Every project starts with the right foundation. Here's what powers my work:
