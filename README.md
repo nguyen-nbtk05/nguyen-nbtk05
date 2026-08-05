@@ -66,12 +66,6 @@ I'm always open to learning new technologies, collaborating on interesting proje
         <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Packet Tracer" />
       </td>
     </tr>
-    <tr>
-      <td><strong>Productivity Tools</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Office" />
-      </td>
-    </tr>
   </tbody>
 </table>
 
