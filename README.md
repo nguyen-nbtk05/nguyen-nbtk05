@@ -30,37 +30,47 @@ I'm always open to learning new technologies, collaborating on interesting proje
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
       </td>
     </tr>
     <tr>
-      <td><strong>Network Tools &amp; Platforms</strong></td>
+      <td><strong>Linux &amp; Distributions</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Packet Tracer" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Debian--based-A81D33?style=for-the-badge&amp;logo=debian&amp;logoColor=white" alt="Debian-based distributions" />
+        <img src="https://img.shields.io/badge/RHEL--based-EE0000?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" alt="RHEL-based distributions" />
+        <img src="https://img.shields.io/badge/Arch--based-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white" alt="Arch-based distributions" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Version Control &amp; Collaboration</strong></td>
+      <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
       </td>
     </tr>
     <tr>
-      <td><strong>Networking Fundamentals</strong></td>
+      <td><strong>Networking &amp; Routing</strong></td>
       <td>
         <img src="https://img.shields.io/badge/IPv4-0B5CAD?style=for-the-badge" alt="IPv4" />
         <img src="https://img.shields.io/badge/IPv6-0078D4?style=for-the-badge" alt="IPv6" />
         <img src="https://img.shields.io/badge/Subnetting-00599C?style=for-the-badge" alt="Subnetting" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Routing Protocols</strong></td>
-      <td>
         <img src="https://img.shields.io/badge/RIP-1565C0?style=for-the-badge" alt="RIP" />
         <img src="https://img.shields.io/badge/OSPF-1E88E5?style=for-the-badge" alt="OSPF" />
         <img src="https://img.shields.io/badge/EIGRP-42A5F5?style=for-the-badge" alt="EIGRP" />
-        <img src="https://img.shields.io/badge/BGP-0D47A1?style=for-the-badge" alt="BGP" />
       </td>
     </tr>
     <tr>
-      <td><strong>Productivity &amp; Office Tools</strong></td>
-      <td><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoftoffice&amp;logoColor=white" alt="Microsoft Office" /></td>
+      <td><strong>Network Tools &amp; Simulation</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Packet Tracer" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Productivity Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Office" />
+      </td>
     </tr>
   </tbody>
 </table>
