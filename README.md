@@ -1,5 +1,7 @@
 # Hey! I'm [Nora](https://nguyen-nbtk05.id.vn/) 👋
 
+<img src="galshir-ctrl-z.gif" width="100%" alt="Header Banner" />
+
 ## ✨ Quick Overview
 > Computer Networks & Data Communications Student
 <div align="justify">
