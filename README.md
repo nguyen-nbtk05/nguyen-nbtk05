@@ -71,11 +71,40 @@ I'm always open to learning new technologies, collaborating on interesting proje
 </table>
 
 ## 📊 Github Stats
-<p align="left">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nguyen-nbtk05&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" height="170" align="top" />
-  &nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nguyen-nbtk05&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&layout=compact" height="170" align="top" />
-</p>
+<div align="left">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/nguyen-nbtk05/github-stats#gh-dark-mode-only">
+              <img
+                align="center"
+                src="https://github.com/nguyen-nbtk05/github-stats/blob/generated/overview.svg#gh-dark-mode-only"
+              />
+            </a>
+            <a href="https://github.com/nguyen-nbtk05/github-stats#gh-light-mode-only">
+              <img
+                align="center"
+                src="https://github.com/nguyen-nbtk05/github-stats/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="https://github.com/nguyen-nbtk05/github-stats#gh-dark-mode-only">
+              <img
+                align="center"
+                src="https://github.com/nguyen-nbtk05/github-stats/blob/generated/languages.svg#gh-dark-mode-only"
+              />
+            </a>
+            <a href="https://github.com/nguyen-nbtk05/github-stats#gh-light-mode-only">
+              <img
+                align="center"
+                src="https://github.com/nguyen-nbtk05/github-stats/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
 
 ## 📫 Contact me
 
