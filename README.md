@@ -1,5 +1,9 @@
 # Hey! I'm [Nora](https://nguyen-nbtk05.id.vn/) 👋
 
+<p align="center">
+  <img src="https://m.h4ck.org.cn/@nguyen-nbtk05?name=nguyen-nbtk05&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
+
 ## ✨ Quick Overview
 > Computer Networks & Data Communications Student
 <div align="justify">
