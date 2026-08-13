@@ -123,10 +123,3 @@ I'm always open to learning new technologies, collaborating on interesting proje
 <p align="center">
   <strong>💙✨ “Turning data into decisions — and dreams into reality.” ✨💙</strong>
 </p>
-
-<p align="center">
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=nguyen-nbtk05.nguyen-nbtk05&left_text=Profile%20Views"
-    alt="Profile Views"
-  />
-</p>
