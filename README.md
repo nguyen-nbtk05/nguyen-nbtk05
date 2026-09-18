@@ -29,46 +29,41 @@ I'm always open to learning new technologies, collaborating on interesting proje
   </thead>
   <tbody>
     <tr>
-      <td><strong>Programming Languages</strong></td>
+      <td><strong>Programming</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
       </td>
     </tr>
     <tr>
-      <td><strong>Linux &amp; Distributions</strong></td>
+      <td><strong>Linux</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/Debian--based-A81D33?style=for-the-badge&amp;logo=debian&amp;logoColor=white" alt="Debian-based distributions" />
-        <img src="https://img.shields.io/badge/RHEL--based-EE0000?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" alt="RHEL-based distributions" />
-        <img src="https://img.shields.io/badge/Arch--based-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white" alt="Arch-based distributions" />
+        <img src="https://img.shields.io/badge/Virtualization-7C3AED?style=for-the-badge" alt="Virtualization" />
       </td>
     </tr>
     <tr>
-      <td><strong>Version Control &amp; Collaboration</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Networking &amp; Routing</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/IPv4-0B5CAD?style=for-the-badge" alt="IPv4" />
-        <img src="https://img.shields.io/badge/IPv6-0078D4?style=for-the-badge" alt="IPv6" />
-        <img src="https://img.shields.io/badge/Subnetting-00599C?style=for-the-badge" alt="Subnetting" />
-        <img src="https://img.shields.io/badge/RIP-1565C0?style=for-the-badge" alt="RIP" />
-        <img src="https://img.shields.io/badge/OSPF-1E88E5?style=for-the-badge" alt="OSPF" />
-        <img src="https://img.shields.io/badge/EIGRP-42A5F5?style=for-the-badge" alt="EIGRP" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Network Tools &amp; Simulation</strong></td>
+      <td><strong>Networking &amp; Analysis</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Packet Tracer" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/Mininet-0288D1?style=for-the-badge" alt="Mininet" />
+        <img src="https://img.shields.io/badge/YARA-CC0000?style=for-the-badge" alt="YARA" />
+        <img src="https://img.shields.io/badge/Nmap-1B4F72?style=for-the-badge" alt="Nmap" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="Selenium" />
       </td>
     </tr>
   </tbody>
