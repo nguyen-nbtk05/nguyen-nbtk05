@@ -43,7 +43,6 @@ I'm always open to learning new technologies, collaborating on interesting proje
       <td>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/Virtualization-7C3AED?style=for-the-badge" alt="Virtualization" />
       </td>
     </tr>
     <tr>
