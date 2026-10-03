@@ -34,7 +34,6 @@ I'm always open to learning new technologies, collaborating on interesting proje
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
       </td>
     </tr>
@@ -52,7 +51,6 @@ I'm always open to learning new technologies, collaborating on interesting proje
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
         <img src="https://img.shields.io/badge/Mininet-0288D1?style=for-the-badge" alt="Mininet" />
         <img src="https://img.shields.io/badge/YARA-CC0000?style=for-the-badge" alt="YARA" />
-        <img src="https://img.shields.io/badge/Nmap-1B4F72?style=for-the-badge" alt="Nmap" />
       </td>
     </tr>
     <tr>
