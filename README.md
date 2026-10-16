@@ -1,22 +1,13 @@
-# Hey! I'm [Nora](https://nguyen-nbtk05.id.vn/) 👋
+# Hi there! I'm [Nora](https://nguyen-nbtk05.id.vn/) 👋
 
 <p align="center">
   <img src="https://m.h4ck.org.cn/@nguyen-nbtk05?name=nguyen-nbtk05&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
-## ✨ Quick Overview
+## ✨ Who am I?
 > Computer Networks & Data Communications Student
-<div align="justify">
-Hi there! I'm <a href="https://nguyen-nbtk05.id.vn/">Nora</a> 🍃. Welcome to my Github Profile!
-<br /><br />
-I'm a student who passionate about networking, cybersecurity, and cloud technologies, with a strong curiosity about how modern IT systems communicate and work together.
-<br /><br />
-I enjoy learning how computer systems communicate, designing network solutions, and exploring modern IT infrastructure. I'm always looking for opportunities to improve my technical knowledge through hands-on projects and continuous learning.
-<br /><br />
-Currently, I'm focusing on Linux, Python, network administration, and automation while building practical projects to strengthen my problem-solving and development skills.
-<br /><br />
-I'm always open to learning new technologies, collaborating on interesting projects, and connecting with other developers and IT enthusiasts.
-</div>
+
+I'm [Nora](https://nguyen-nbtk05.id.vn/) - An individual with a strong technical inclination and a deep interest in **Linux systems**, **Networking** and **Cybersecurity**, combining academic training with hands-on practice to build secure, resilient systems.
 
 ## 🛠️ Skills & Tools
 
@@ -58,7 +49,6 @@ I'm always open to learning new technologies, collaborating on interesting proje
       <td>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="Selenium" />
       </td>
     </tr>
   </tbody>
